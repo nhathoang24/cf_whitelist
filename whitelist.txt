@@ -1,0 +1,2 @@
+imasdk.googleapis.com
+pagead2.googlesyndication.com
