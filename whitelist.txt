@@ -1,1 +1,8 @@
+api.statsig.com
+click.discord.com
+js.datadome.co
+app.appsflyer.com
+app.adjust.com
 pagead2.googlesyndication.com
+graph.facebook.com
+b-graph.facebook.com
